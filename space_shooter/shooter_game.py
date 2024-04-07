@@ -4,7 +4,7 @@ from time import time as timer
 import math
 
 lost_ufos_count = 0
-been_shot = 0ai
+been_shot = 0
 lifes =  3
 
 bullets_count = 5
